@@ -1,0 +1,80 @@
+
+body{
+   background-image: url(imagens/fundo2.jpg);
+    text-align: center;
+}
+ 
+button {
+     border:black solid 1px;
+    border-radius: 5px;
+   background-color: black;
+    right: 30px;
+    left: 5px; 
+    
+}
+
+p  {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    
+
+    background-color: black;
+    font-style: italic;
+    color: aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+    width: 190px;
+    height: 50px;
+    border-radius: 5px;
+    border: aliceblue solid 2px;
+    text-align: center;
+    font-family: DejaVu Sans Mono, monospace;
+    
+}
+
+.filmes {
+    text-align: center;
+}
+.img2{
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    background: none;
+    display: flex;
+    border:aliceblue solid 1px; 
+    max-width: 500px; 
+    max-height: 650px; 
+    
+}
+.iframes{
+    text-align: center;
+  display: flex ;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px; 
+    max-height: 650px; 
+    
+  
+}
+.navbar{
+    background-color:rgb(229, 9, 20) ;
+    text-align: center;
+}
+.btn{
+    background-color:aliceblue;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    background: none;
+}
+hr {
+    color: black;
+}
+
+
+
+
+
